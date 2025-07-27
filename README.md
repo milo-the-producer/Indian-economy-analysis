@@ -7,7 +7,7 @@ This notebook presents a **complete exploratory data analysis (EDA)** of India's
 
 ## 🧠 Motivation
 
-As a young data scientist and passionate learner, this is my **first official EDA project** that I’ve decided to share with the world. The goal was to:
+As a young data scientist (13 years old) and passionate learner, this is my **first official EDA project** that I’ve decided to share with the world. The goal was to:
 - Understand how India’s economy has evolved over time
 - Practice core EDA skills in pandas, matplotlib, seaborn, and NumPy
 - Apply statistical concepts like the **Central Limit Theorem**, IQR, and KDE
